@@ -21,7 +21,7 @@ Simulator function is taken control of by a particular thread randomly based on 
            control of simulator function and then it performs it operation of performing LCM and
      4.  Then all computed values are stored in a Hashmap with the thread id and also keeping  
            track of event number.The computed values determine value of EVC till this event.
-     5.   Finally, we perform a system wide when the EVC overflows checking for 32*n or 64*n.\n
+     5.   Finally, we perform a system wide when the EVC overflows checking for 32*n or 64*n.
 For part 2:
 Initialize the Processes with a unique prime number and store the mapping in Hashmap(as initial value of EVC).Here EVC value is in Big Decimal form.
 Each of these processes were added to Queue for responding to events.
