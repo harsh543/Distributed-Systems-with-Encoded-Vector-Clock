@@ -2,7 +2,7 @@
 Implementation of a research paper : https://www.cs.uic.edu/~ajayk/ext/icdcn18_paper19.pdf
 
 
-It's a paper by a Professor at my college.In his class he asked to do the implementation :(
+It's a paper by a Professor at my college.In his class he asked to do the implementation :)
 
 
 
